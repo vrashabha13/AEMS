@@ -1,0 +1,41 @@
+<!DOCTYPE html>
+{% load static %}
+<html lang="en" dir="ltr">
+
+<style>
+  .jumbotron{
+    margin-bottom: 0px;
+  }
+</style>
+<body>
+  {% include "quiz/navbar.html" %}
+<br>
+<section id="section-jumbotron" class="jumbotron jumbotron-fluid d-flex justify-content-center align-items-center">
+  <div class="container text-center">
+    <h1 class="display-1 text-info">Welcome to AEMS – Advanced Examination Management System</h1>
+    <p class="lead">Reimagine the way you conduct exams with AEMS – a smart, secure, and all-in-one platform for modern education. Whether you're a teacher looking to create dynamic quizzes and assignments or a student preparing for seamless submissions and instant feedback, AEMS is built to make the examination process effortless.
+
+    </p>
+    <p class="lead">Say goodbye to manual evaluations and traditional paper-based tests. With intelligent features like automated grading, plagiarism checks, real-time results, and secure login, AEMS ensures every assessment is fair, efficient, and stress-free.
+
+    </p>
+    <p class="lead">Experience the future of examinations – faster, smarter, better.
+      👉 Get started today!
+      
+      </p>
+
+    
+
+
+    <p><strong> Start Your Journey Here:</strong></p>
+    <a href="/student/studentsignup" class="btn btn-lg btn-info" style="padding-right: 35px;"><i class="fa fa-user-plus" aria-hidden="true"></i> Sign Up</a>
+    
+    <br><br><br>
+  </div>  
+</section>
+  {% include "quiz/footer.html" %}
+
+
+</body>
+
+</html>
