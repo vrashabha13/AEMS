@@ -48,3 +48,15 @@ py manage.py runserver
 ```
 http://127.0.0.1:8000/
 ```
+
+## Screenshots
+![admin dashboard](./images/admin%20dashboard.png)
+![admin login page](./images/admin%20login%20page.png)
+![exam instructions](./images/exam%20instructions.png)
+![Home page](./images/Home%20page.png)
+![student dashboard](./images/student%20dashboard.png)
+![student login page](./images/student%20login%20page.png)
+![student taking examination](./images/student%20taking%20examination.png)
+![teacher adding question](./images/teacher%20adding%20question.png)
+![teacher dashboard](./images/teacher%20dashboard.png)
+![teacher login page](./images/teacher%20login%20page.png)
