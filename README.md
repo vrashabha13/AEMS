@@ -50,13 +50,41 @@ http://127.0.0.1:8000/
 ```
 
 ## Screenshots
+
 ![admin dashboard](./images/admin%20dashboard.png)
+*Admin dashboard — overview of users, stats and quick actions.*
+
 ![admin login page](./images/admin%20login%20page.png)
+*Admin login page — secure sign-in for administrators.*
+
+&nbsp;
+
 ![exam instructions](./images/exam%20instructions.png)
+*Exam instructions — rules and time limits shown before starting the test.*
+
+&nbsp;
+
 ![Home page](./images/Home%20page.png)
+*Home page — landing page with navigation to courses & exams.*
+
+&nbsp;
+
 ![student dashboard](./images/student%20dashboard.png)
+*Student dashboard — shows current exams, progress and scores.*
+
 ![student login page](./images/student%20login%20page.png)
+*Student login page — login and password recovery options.*
+
 ![student taking examination](./images/student%20taking%20examination.png)
+*Exam interface — question view with timer and navigation.*
+
+&nbsp;
+
 ![teacher adding question](./images/teacher%20adding%20question.png)
+*Teacher add-question — form to create MCQ/subjective questions.*
+
 ![teacher dashboard](./images/teacher%20dashboard.png)
+*Teacher dashboard — classes, assignments and grading tools.*
+
 ![teacher login page](./images/teacher%20login%20page.png)
+*Teacher login page — secure access for instructors.*
