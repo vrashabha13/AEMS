@@ -88,3 +88,9 @@ http://127.0.0.1:8000/
 
 ![teacher login page](./images/teacher%20login%20page.png)
 *Teacher login page — secure access for instructors.*
+
+**License**
+This project is open-source under the MIT License.
+
+**Author**
+Developed by Saahil A Vishwakarma and Vrashabha Nilajagi.
